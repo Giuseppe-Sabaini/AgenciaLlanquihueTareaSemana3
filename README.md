@@ -22,3 +22,21 @@ aplicando principios de Encapsulamiento, Composicion, Herencia.
 📁 src/
 ├── app/         # Clase principal con el método main
 ├── model/       # Clases de dominio (Direccion, Empleado, Persona,)
+```
+
+***
+
+# ⚙️ Instrucciones para clonar y ejecutar el proyecto
+
+1. Clona el repositorio desde GitHub:
+
+```
+git clone https://github.com/Giuseppe-Sabaini/AgenciaLlanquihueTareaSemana3.git
+```
+
+2. Abre el proyecto en IntelliJ IDEA.
+3. Ejecuta el archivo Main.java desde el paquete app.
+
+***
+
+Repositorio GitHub: https://github.com/Giuseppe-Sabaini/AgenciaLlanquihueTareaSemana3.git Fecha de entrega: 8/6/26 23:59
